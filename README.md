@@ -3,7 +3,7 @@
 </p>
   
   <p align="center">
-  <a href="https://scholar.google.com/citations?user=Nmr1VmMAAAAJ&hl=el"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" </a>  
+  <a href="https://scholar.google.com/citations?user=Nmr1VmMAAAAJ&hl=el"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png",width="100" </a>  
 </p>
   
   
