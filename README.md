@@ -6,4 +6,4 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dimitrios-bassukas-49ab5623a/)
 
 
-I am hydrologist in the making, currently working at the Hydrology lab at the Technische Hochschule Lübeck, Germany.
+I am hydrologist in the making, currently working of the Hydrology lab at the Technische Hochschule Lübeck, Germany.
