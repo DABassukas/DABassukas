@@ -6,4 +6,5 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=c2c2c2&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Nmr1VmMAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=c2c2c2&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dimitrios-bassukas-49ab5623a/)
 
-I am a hydrologist in the making, currently working for the Hydrology lab at the Technische Hochschule Lübeck, Germany.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+sans&pause=1000&color=000000B8&width=435&lines=I+am+a+hydrologist+in+the+making%2C+currently+working+for+the+Hydrology+lab+at+the+Technische+Hochschule+L%C3%BCbeck%2C+Germany.)](https://git.io/typing-svg)
