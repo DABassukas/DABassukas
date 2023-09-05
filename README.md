@@ -5,6 +5,6 @@
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Nmr1VmMAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dimitrios-bassukas-49ab5623a/)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4f6f7,100:006cb7&height=100&section=header&text=capsule%20render&fontSize=90)
 
 I am hydrologist in the making, currently working for the Hydrology lab at the Technische Hochschule Lübeck, Germany.
