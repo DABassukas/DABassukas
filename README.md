@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4f6f7,100:006cb7&height=80&section=header&text=&fontSize=90)
 
-### Hi there 💧
+### Hi there! 
 
 ![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
 [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0001-5999-4917&color=006cb7&style=flat-square&logo=orcid)](https://orcid.org/0000-0001-8152-0347)
